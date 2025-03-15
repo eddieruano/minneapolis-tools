@@ -1,3 +1,19 @@
+# Gitignore file for Python projects
+# This file is a template for Python projects. It is recommended to customize it
+# according to your project's specific needs.
+
+# Operating system files
+# Mac OS X
+# These files are created by the Finder and should be ignored.
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Icon?
+# Temporary files
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
